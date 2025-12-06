@@ -278,7 +278,7 @@ function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  +213779577865
+                  +13182454129
                 </a>
               </ButtonEffect>
             </div>
