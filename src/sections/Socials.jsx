@@ -9,7 +9,7 @@ function Socials() {
     <div className="flex item z-50 w-full flex-col gap-6 lg:gap-8">
       <Magnetic>
         <a
-          href="https://www.linkedin.com/in/emmanuel-oppong-acheampong/"
+          href="https://www.linkedin.com/in/aziz-khaldi-b28207261/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -23,7 +23,7 @@ function Socials() {
       </Magnetic>
       <Magnetic>
         <a
-          href="https://wa.me/13182454129"
+          href="https://wa.me/213779577865"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -45,7 +45,7 @@ function Socials() {
       </Magnetic> */}
       <Magnetic>
         <a
-          href="https://github.com/oppong07" // Replace with your actual GitHub URL
+          href="https://github.com/AzizKhaldi01" // Replace with your actual GitHub URL
           target="_blank"
           rel="noopener noreferrer"
         >

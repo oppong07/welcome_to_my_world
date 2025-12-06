@@ -15,8 +15,8 @@ function AboutMe() {
   // Story texts that will change on scroll
   const storyTexts = [
     { number: "01", text: "Hi" },
-    { number: "02", text: "I'm Emmanuel Oppong" },
-    { number: "03", text: "I have around 3 years of experience" },
+    { number: "02", text: "I'm Aziz Khaldi" },
+    { number: "03", text: "I have around 4 years of experience" },
     { number: "04", text: "Building exceptional digital experiences" },
     { number: "05", text: "Let's create something remarkable together" }
   ];
@@ -310,7 +310,7 @@ function AboutMe() {
           stagger={0.01}
           start="top center"
           end="bottom center"
-          text="I'm Emmanuel — a Full Stack Developer crafting fast, scalable, and immersive digital experiences that merge creativity with engineering precision."
+          text="I'm Aziz — a Full Stack Developer crafting fast, scalable, and immersive digital experiences that merge creativity with engineering precision."
         />
         {/* Subheading */}
         <WordAnimation trigger=".About-me"

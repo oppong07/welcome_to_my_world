@@ -8,9 +8,9 @@ import BackgroundVideo from "@/componet/BackgroundVideo";
 // Register ScrollTrigger plugin
 
 const animations = [
-  { text: "Hi!  i’m Emmanuel", duration: 0.5, fontR: true },
+  { text: "Hi!  i’m Aziz", duration: 0.5, fontR: true },
   { text: "Full-stack Developer", duration: 0.5 },
-  { text: "UI & UX / Front Designer. ", duration: 0.5 },
+  { text: "UI & UX Designer. ", duration: 0.5 },
   // Add more animations as needed
 ];
 
@@ -106,7 +106,7 @@ function Hero1() {
       </div>
 
       <div className=" item absolute hidden font-cabinetGrotesk   -mt-10  lg:block -rotate-90 top-[40%] -right-[6.5%] transform -translate-y-1/2 writing-mode-vertical-rl text-orientation-mixed   tracking-wider pr-5">
-        EMMANUEL ACHEAMPONG OPPONG
+        KHALID AHMED ABDELAZIZ
       </div>
 
       <h1 className=" item letter-spacing-[1em] font-cabinetGrotesk  lg:text-2xl text-xl  cursor-default right-[50%] transform translate-x-[50%]  absolute z-[100] bottom-[16%]   ">
