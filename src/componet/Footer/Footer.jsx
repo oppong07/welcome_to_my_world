@@ -55,7 +55,7 @@ function Footer() {
           isSocaial: true,
         },
         {
-          text: "Linkdin",
+          text: "LinkedIn",
           link: "https://www.linkedin.com/in/emmanuel-oppong-acheampong/",
           isSocaial: true,
         },
