@@ -1,10 +1,10 @@
 import Head from 'next/head';
 
 const SEO = ({
-  title = "Aziz Khaldi | Frontend Developer Portfolio",
-  description = "Explore Aziz Khaldi's portfolio showcasing innovative frontend development projects, UI/UX designs, and creative web solutions.",
+  title = "Emmanuel Oppong | Frontend Developer Portfolio",
+  description = "Explore Emmanuel Oppong's portfolio showcasing innovative frontend development projects, UI/UX designs, and creative web solutions.",
   image = "/default-image.jpg", // Replace with a valid image path
-  url = "https://azizkhaldiportfolio.vercel.app/",
+  url = "https://welcome-to-my-world-hola.vercel.app/",
 }) => {
   return (
     <Head>

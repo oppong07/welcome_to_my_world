@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://azizkhaldi.com
+Host: https://emmanueloppong.com
 
 # Sitemaps
-Sitemap: https://azizkhaldi.com/sitemap.xml
+Sitemap: https://emmanueloppong.com/sitemap.xml

@@ -51,22 +51,22 @@ function Footer() {
       links: [
         {
           text: "Email",
-          link: "mailto:aziz.khaldi100@gmail.com",
+          link: "mailto:emmanuelopponga07@gmail.com",
           isSocaial: true,
         },
         {
           text: "Linkdin",
-          link: "https://www.linkedin.com/in/aziz-khaldi-b28207261/",
+          link: "https://www.linkedin.com/in/emmanuel-oppong-acheampong/",
           isSocaial: true,
         },
         {
           text: "Whatsapp",
-          link: "https://wa.me/213779577865",
+          link: "https://wa.me/13182454129",
           isSocaial: true,
         },
         {
           text: "Github",
-          link: "https://github.com/AzizKhaldi01",
+          link: "https://github.com/oppong07",
           isSocaial: true,
         },
       ],
@@ -205,7 +205,7 @@ function Footer() {
     });
   }, []);
 
-  const text = "AZIZ";
+  const text = "EMMA";
 
 
   return (
@@ -289,8 +289,8 @@ function Footer() {
                   "bg-sec border-white lg:w-fit w-full hover:border-0 border-[1px] text-white"
                 }
               >
-                <a href="mailto:aziz.khaldi100@gmail.com">
-                  aziz.khaldi100@gmail.com
+                <a href="mailto:emmanuelopponga07@gmail.com">
+                  emmanuelopponga07@gmail.com
                 </a>
               </ButtonEffect>
             </div>
