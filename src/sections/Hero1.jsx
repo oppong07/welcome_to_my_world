@@ -8,7 +8,7 @@ import BackgroundVideo from "@/componet/BackgroundVideo";
 // Register ScrollTrigger plugin
 
 const animations = [
-  { text: "Hi!  i’m Emmanuel", duration: 0.5, fontR: true },
+  { text: "Hi!  I’m Emmanuel", duration: 0.5, fontR: true },
   { text: "Full-stack Developer", duration: 0.5 },
   { text: "UI & UX Designer. ", duration: 0.5 },
   // Add more animations as needed
