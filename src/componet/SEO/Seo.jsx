@@ -4,7 +4,7 @@ const SEO = ({
   title = "Emmanuel Oppong | Frontend Developer Portfolio",
   description = "Explore Emmanuel Oppong's portfolio showcasing innovative frontend development projects, UI/UX designs, and creative web solutions.",
   image = "/default-image.jpg", // Replace with a valid image path
-  url = "https://welcome-to-my-world-hola.vercel.app/",
+  url = "https://welcome-to-my-world-one.vercel.app/",
 }) => {
   return (
     <Head>
