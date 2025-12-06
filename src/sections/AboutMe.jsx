@@ -310,7 +310,7 @@ function AboutMe() {
           stagger={0.01}
           start="top center"
           end="bottom center"
-          text="I'm Emmanuel Oppong — a Full Stack Developer crafting fast, scalable, and immersive digital experiences that merge creativity with engineering precision."
+          text="I'm Emmanuel — a Full Stack Developer crafting fast, scalable, and immersive digital experiences that merge creativity with engineering precision."
         />
         {/* Subheading */}
         <WordAnimation trigger=".About-me"
