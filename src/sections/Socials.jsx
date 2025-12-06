@@ -23,7 +23,7 @@ function Socials() {
       </Magnetic>
       <Magnetic>
         <a
-          href="https://wa.me/1382454129"
+          href="https://wa.me/13182454129"
           target="_blank"
           rel="noopener noreferrer"
         >
