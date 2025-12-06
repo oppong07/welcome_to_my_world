@@ -24,8 +24,8 @@ const Home = () => {
   return (
     <Curve>
       <SEO
-        title="Aziz Khaldi | Software Engineer Portfolio"
-        description="Explore Aziz Khaldi's portfolio showcasing innovative software engineering projects, UI/UX designs, and creative web solutions."
+        title="Emmanuel Oppong | Software Engineer Portfolio"
+        description="Explore Emmanuel Oppong's portfolio showcasing innovative software engineering projects, UI/UX designs, and creative web solutions."
         image={me.src}
         url="https://azizkhaldi.com/"
       />

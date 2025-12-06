@@ -6,11 +6,11 @@ function SocialsLine() {
   const socials = [
     {
       name: "LinkedIn",
-      href: "https://www.linkedin.com/in/aziz-khaldi-b28207261/",
+      href: "https://www.linkedin.com/in/emmanuel-oppong-acheampong/",
     },
-    { name: "WhatsApp", href: "https://wa.me/213779577865" },
-    { name: "Email", href: "mailto:aziz.khaldi100@gmail.com" },
-    { name: "Github", href: "https://github.com/AzizKhaldi01" },
+    { name: "WhatsApp", href: "https://wa.me/13182454129" },
+    { name: "Email", href: "mailto:emmanuelopponga07@gmail.com" },
+    { name: "Github", href: "https://github.com/oppong07" },
   ];
 
   return (

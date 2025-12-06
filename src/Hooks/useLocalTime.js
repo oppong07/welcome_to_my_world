@@ -13,13 +13,13 @@ const useLocalTime = () => {
       hour: "numeric",
       minute: "numeric",
       hour12: true,
-      timeZone: "Africa/Algiers", // Set the timezone to Algeria
+      timeZone: "America/Belize", // Set the timezone to Algeria
     };
 
     const timeString = new Intl.DateTimeFormat("en-US", options).format(now);
 
     // Set the UTC offset
-    const utcOffset = "UTC+2";
+    const utcOffset = "UTC-6";
 
     // Combine the time with the UTC offset
     setLocalTime(`${timeString} ${utcOffset}`);
