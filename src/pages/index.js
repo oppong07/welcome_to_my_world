@@ -10,7 +10,7 @@ import SlidingBars from "../componet/Home/SlidingBars";
 import Curve from "@/componet/UI/NavCurve";
 import Footer from "../componet/Footer/Footer";
 import SEO from "@/componet/SEO/Seo";
-import me from "../assest/Images/about/aziz-about-me.jpg";
+import me from "../assest/Images/about/aziz-about-me.jpeg";
 import ExperienceSection from "../sections/ExperienceSection";
 // import Testimonials from "@/sections/Testimonials";
 

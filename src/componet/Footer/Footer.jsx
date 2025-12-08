@@ -205,7 +205,7 @@ function Footer() {
     });
   }, []);
 
-  const text = "EMMA";
+  const text = "-";
 
 
   return (

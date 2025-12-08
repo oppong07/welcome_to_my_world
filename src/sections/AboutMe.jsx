@@ -4,7 +4,7 @@ import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import ButtonNew from "@/componet/UI/ButtonNew";
 import InfinitTextSlid from "@/componet/UI/InfinitTextSlid";
 import Image from "next/image";
-import meImage from "@/assest/Images/about/me-sitting.png";
+import meImage from "@/assest/Images/about/me-sitting.jpeg";
 import WordAnimation from "@/components/UI/WordAnimation";
 gsap.registerPlugin(ScrollTrigger);
 

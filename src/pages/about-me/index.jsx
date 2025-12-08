@@ -5,7 +5,7 @@ import LogoWithText from "../../componet/UI/LogoWithText";
 import Navbar from "../../componet/Navbar";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
-import ana from "../../assest/Images/about/aziz-about-me-02.jpg";
+import ana from "../../assest/Images/about/aziz-about-me-02.jpeg";
 import SlidingBars from "../../componet/Home/SlidingBars";
 import GrayLine from "../../componet/UI/GrayLine";
 import Footer from "../../componet/Footer/Footer";
